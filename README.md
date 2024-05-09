@@ -26,7 +26,7 @@ Here are some key observations and insights from the Weatherpy analysis:
 
 ## Images
 
-Static images generated during the VacationPy analysis can be found [here, hotels](output_data/map_perfect_weather_hotels.png) and [here, city data](./WeatherPy/output_data/map_point_city_data.png).
+Static images generated during the VacationPy analysis can be found [here, hotels](output_data/map_perfect_weather_hotels.png) and [here, city data](output_data/map_point_city_data_df.png).
 
 
 ## Technologies Used
