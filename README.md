@@ -13,11 +13,11 @@ In the WeatherPy section, I collected weather data for over 500 cities worldwide
 
 ### VacationPy
 
-In VacationPy, I utilized the weather data obtained in WeatherPy to identify potential vacation destinations with favorable weather conditions. I used Jupyter-gmaps and the OpenWeatherMap API to create interactive heatmaps of humidity levels across cities. Then, I narrowed down the list of cities based on specific weather criteria and used the Google Places API to find nearby hotels for each destination. Finally, I plotted the chosen hotels on the heatmap to visualize ideal vacation spots.
+In VacationPy, I leveraged the weather data obtained from WeatherPy to pinpoint potential vacation destinations featuring favorable weather conditions. Using Geoviews and the OpenWeatherMap API, I crafted interactive heatmaps showcasing humidity levels across various cities. Subsequently, I refined the list of cities based on predetermined weather criteria. Finally, I plotted the chosen cities onto a world map and identified nearby hotels using Geoviews Feature.
 
 ## Observations and Insights
 
-Here are some key observations and insights from the analysis:
+Here are some key observations and insights from the Weatherpy analysis:
 
 - Temperature tends to decrease as distance from the equator increases, with cities closer to the equator experiencing higher temperatures.
 - There is no strong correlation between latitude and cloudiness or wind speed, indicating that these factors are influenced by other variables.
@@ -26,7 +26,7 @@ Here are some key observations and insights from the analysis:
 
 ## Images
 
-Static images generated during the VacationPy analysis can be found [here](./WeatherPy/output_data/map_perfect_weather_hotels.png) and [here](./WeatherPy/output_data/map_point_city_data.png).
+Static images generated during the VacationPy analysis can be found [here, hotels](./WeatherPy/output_data/map_perfect_weather_hotels.png) and [here, city data](./WeatherPy/output_data/map_point_city_data.png).
 
 
 ## Technologies Used
